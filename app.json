@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "ExpenseManagement",
+    "slug": "ExpenseManagement",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "ExpenseManagement"
+}
